@@ -1,12 +1,12 @@
-BIT 465 – REST API Development 
+## BIT 465 – REST API Development 
 A Complete Django REST API With GitHub Documentations
 
-Introduction
+## Introduction
 This assignment is to help you build upon the skills you have acquired from assignment 4 and the first 4 
 chapters of Building RESTful Python Web Services. See the submission section for more information 
 about what you should submit for this assignment.
 
-Specification
+## Specification
 You  should  build  a  new  API  endpoint  that  allows  an  end  user  to  create  a  new Dog model  by  making 
 a POST to /api/dogs,  view  current  dogs  that  have  been  saved  to  the  server  before  by  making  a GET to 
 /api/dogs,  and  get,  modify,  or  delete  an  existing Dog record  by  making  a GET, PUT,  or DELETE request 
